@@ -1,6 +1,6 @@
 # react-alternative-class-component-syntax
 
-[![Build Status](https://travis-ci.org/rwieruch/react-alternative-class-component-syntax-setup.svg?branch=master)](https://travis-ci.org/rwieruch/react-alternative-class-component-syntax-setup)
+[![Build Status](https://travis-ci.org/rwieruch/react-alternative-class-component-syntax-setup.svg?branch=master)](https://travis-ci.org/rwieruch/react-alternative-class-component-syntax-setup) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
 
 React Class Components can be made much more concise using the *class field declarations*. You can initialize local state without using the constructor and declare class methods by using arrow functions without the extra need to bind them.
 
