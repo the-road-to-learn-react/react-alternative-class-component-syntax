@@ -1,6 +1,6 @@
 # react-alternative-class-component-syntax
 
-[![Build Status](https://travis-ci.org/rwieruch/react-alternative-class-component-syntax-setup.svg?branch=master)](https://travis-ci.org/rwieruch/react-alternative-class-component-syntax-setup) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
+[![Build Status](https://travis-ci.org/the-road-to-learn-react/react-alternative-class-component-syntax-setup.svg?branch=master)](https://travis-ci.org/the-road-to-learn-react/react-alternative-class-component-syntax-setup) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
 
 React Class Components can be made much more concise using the *class field declarations*. You can initialize local state without using the constructor and declare class methods by using arrow functions without the extra need to bind them.
 
@@ -35,7 +35,7 @@ class Counter extends Component {
 
 ## Installation
 
-* `git clone git@github.com:rwieruch/react-alternative-class-component-syntax-setup.git`
+* `git clone git@github.com:the-road-to-learn-react/react-alternative-class-component-syntax-setup.git`
 * cd react-alternative-class-component-syntax-setup
 * npm install
 * npm start
