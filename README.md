@@ -36,7 +36,7 @@ class Counter extends Component {
 ## Installation
 
 * `git clone git@github.com:the-road-to-learn-react/react-alternative-class-component-syntax.git`
-* cd react-alternative-class-component-syntax-setup
+* cd react-alternative-class-component-syntax
 * npm install
 * npm start
 * visit `http://localhost:8080`
